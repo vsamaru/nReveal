@@ -1,0 +1,10 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "hugo server"
+  },
+  "dependencies": {
+    "hugo": "^0.0.3"
+  }
+}
